@@ -1,0 +1,19 @@
+{
+  "name": "tugaspraktikum1_bookmanagernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
